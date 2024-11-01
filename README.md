@@ -13,3 +13,9 @@ With this, I can keep my Downloads folder clean and easy to navigate, saving me 
 - **Log File**: Keeps a log of moved files for easy reference and troubleshooting.
 - **Exclusion List**: Excludes specified files (such as the log file or the script itself) from being moved.
 
+## Usage
+
+To organize files in a directory, just place this script in the folder you want to organize and run it:
+
+```bash
+python auto_organizer.py
